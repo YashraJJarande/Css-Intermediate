@@ -1,0 +1,47 @@
+
+.top-container {
+	background-color:#FFE7BF;
+
+}
+
+body {
+		text-align: center;
+	margin:0px;
+	font-family: 'Merriweather', serif;
+	
+	
+}
+h1 {
+	color : #FBA1A1;
+	margin:0px;
+	font-family: 'Bad Script', cursive;
+	font-size :5.625rem;
+	line-height : 2;
+	
+	
+}
+h2 {
+	color : #FBA1A1;
+	margin : 0 auto 20px auto;
+	font-family: 'Montserrat', sans-serif;
+	font-size :2.2rem;
+	font-weight : normal;
+}
+h3{
+	font-family: 'Montserrat', sans-serif;
+	color : #FBA1A1;
+}
+a{
+	color : #FBA1A1;
+}
+.bottom-cloud {
+	position:absolute;
+	padding-top:10px;
+	left:350px;
+}
+.top-cloud {
+	position:relative;
+	padding-top:40px;
+	padding-bottom:20px;
+	left:300px;
+}
